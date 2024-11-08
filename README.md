@@ -1,4 +1,4 @@
-#Lista de atividades de HTML da diciplina WEB 1 .
+# Lista de atividades de HTML da diciplina WEB 1 .
 
 - [Atividade 1](Atividade1)
 - [Atividade 2](Atividade2)
