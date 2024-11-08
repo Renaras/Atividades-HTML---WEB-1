@@ -1,3 +1,16 @@
-# Atividades-HTML---WEB-1
+#Lista de atividades de HTML da diciplina WEB 1 .
 
-Lista de atividades de HTML da diaciplina WEB 1 .
+- [Atividade 1](Atividade1)
+- [Atividade 2](Atividade2)
+- [Atividade 3](Atividade3)
+- [Atividade 4](Atividade4)
+- [Atividade 5](Atividade5)
+- [Atividade 6](Atividade6)
+- [Atividade 7](Atividade7)
+- [Atividade 8](Atividade8)
+- [Atividade 9](Atividade9)
+- [Atividade 10](Atividade10)
+- [Atividade 11](Atividade11)
+- [Atividade 12](Atividade12)
+- [Atividade 13](Atividade13)
+- [Atividade 14](Atividade14)
